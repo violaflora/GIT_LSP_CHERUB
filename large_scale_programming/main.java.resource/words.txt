@@ -1,0 +1,7 @@
+the rain in spain falls
+mainly in the plain plain
+1000 9000 560060 25565 192.168.0.2
+
+design Design
+
+Design and code a program that reads a text file, and counts the number of times each word that it contains appears 100
