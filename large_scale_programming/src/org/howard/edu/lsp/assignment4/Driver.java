@@ -36,7 +36,7 @@ public class Driver {
 		//System.out.println(set1.toString() + set2.toString());
 		set2.complement(set1);
 		System.out.println("Complement of s2: " + set2.toString());
-		System.out.println("Set 1 is empty: " set1.isEmpty());
+		System.out.println("Set 1 is empty: " + set1.isEmpty());
 	}
 
 }
